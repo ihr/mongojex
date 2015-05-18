@@ -1,0 +1,13 @@
+# Travis build docs
+# http://docs.travis-ci.com/user/languages/java/
+# http://docs.travis-ci.com/user/build-configuration/
+
+language: java
+
+jdk:
+  - oraclejdk8
+
+# whitelist
+branches:
+  only:
+    - master

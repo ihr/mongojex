@@ -1,2 +1,2 @@
-# mongojex
+# mongoJx
 MongoDB Java Driver Extentions
